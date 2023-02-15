@@ -288,8 +288,8 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/Patrick-Leary/learn-git-milestones/commit/43f6a831cc7d1720b88aaef42db9bebf4a480696)
 2c | Full path to your working directory | C:\Users\chess\OneDrive\Documents\GitHub\learn-git-milestones>
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/6116a8b495d145a80403b4bf150db5bc5043b6ee)
-2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from VS Code` |
+2e | 3rd Favorite emoji | 👀
+2f | Link to `commit #4 from VS Code` | 
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
