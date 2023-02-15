@@ -281,11 +281,11 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😔
-1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/)
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/Patrick-Leary/learn-git-milestones/commit/fba041588debd5e496be59fe63f5c3e5b08cd4ac)
 1c | Link to markdown tables docs | [Markdown Tables Help](https://markdown.land/markdown-table)
 1d | What does `log` do? | `log` shows the log of past commits.
 2a | 2nd Favorite emoji | 🤨
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/Patrick-Leary/learn-git-milestones/commit/43f6a831cc7d1720b88aaef42db9bebf4a480696)
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
